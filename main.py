@@ -1,14 +1,16 @@
 # Step 1: Initialize an empty dictionary to store users
 user_database = {}
 
+
+
 # Step 2: Function to register a user
 def register_user():
     print("\n--- Register ---")
-    username = input("Enter a username: ")
+    username = input("Enter your username: ")
     if username in user_database:
         print("Username already exists! Try again.")
         return
-    password = input("Enter a password: ")
+    password = input("Enter your password: ")
     if len(password) < 6:
         print("Password must be at least 6 characters long!")
         return
