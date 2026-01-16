@@ -1,4 +1,5 @@
 # Step 1: Initialize an empty dictionary to store users
+
 user_database = {}
 
 
