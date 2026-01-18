@@ -1,6 +1,6 @@
 
 
-# User Authentication & Task Management System
+# User Authentication & Task Management System. 
 
 ## Overview
 
