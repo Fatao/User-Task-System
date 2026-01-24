@@ -2,8 +2,6 @@
 
 user_database = {}
 
-
-
 # Step 2: Function to register a user
 def register_user():
     print("\n--- Register ---")
